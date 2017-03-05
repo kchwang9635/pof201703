@@ -2,6 +2,6 @@
 int main()
 {
 	printf("hello, world\n"); // printf = print format
-	system("pause"); // Ã¢ÀÌ »ç¶óÁöÁö ¾Êµµ·Ï
+	system("pause"); // ì°½ì´ ì‚¬ë¼ì§€ì§€ ì•Šë„ë¡
 	return 0;
 }
